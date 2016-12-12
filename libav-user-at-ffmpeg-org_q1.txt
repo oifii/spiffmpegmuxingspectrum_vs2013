@@ -1,0 +1,12 @@
+Hi All,
+
+Don't have the answer to Salam, but rather have a similar question using a modified version of ffmpeg muxing.c, my source code is here: http://www.oifii.org/ns-org/nsd/ar/cp/audio_spi/spiffmpegmuxingspectrum_qt2016/spiffmpegmuxingspectrum_qt2016.c
+
+I am loading audio from libsndfile and am generating some background with audio signal draw on top of it.
+
+Now, my question is how to preserve my 44100 audio samplerate quality in this modified muxing.c sample, or maybe go down to 22050, because the sound currently distortions with the current settings?
+
+Steph
+
+mailing list:
+libav-user@ffmpeg.org

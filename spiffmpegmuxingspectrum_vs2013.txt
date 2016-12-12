@@ -1,0 +1,9 @@
+errors when compiling with vs2013:
+
+https://ffmpeg.org/doxygen/2.5/timestamp_8h.html
+convenience macro, the return value should be used only directly in function arguments but never stand-alone
+
+http://stackoverflow.com/questions/24585771/anything-wrong-with-char320-in-visual-studio-2012
+
+https://www.ffmpeg.org/platform.html#Microsoft-Visual-C_002b_002b-or-Intel-C_002b_002b-Compiler-for-Windows
+
