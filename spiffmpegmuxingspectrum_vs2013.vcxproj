@@ -80,6 +80,9 @@
   <ItemGroup>
     <ClCompile Include="spiffmpegmuxingspectrum_vs2013.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="spi.licenseheader" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
